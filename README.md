@@ -9,7 +9,7 @@
     4. [其他问题解答](#subparagraph4)
 
 ## 注册海外邮箱 <a name="邮箱"></a>
-注册海外邮箱。（[https://proton.me/] 比较方便，程序简单，点击‘create a free acount’）
+注册海外邮箱。（https://proton.me/ 比较方便，程序简单，点击‘create a free acount’）
 
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/4eb2cb88-2086-4f5d-827f-0df5816a0f1f)
 
@@ -38,7 +38,7 @@
 
 
 ## 注册OpenAPI <a name="paragraph1"></a>
-进入OpenAI的账户注册页面。 （ [https://chat.openai.com/] ）
+进入OpenAI的账户注册页面。 （https://chat.openai.com/）
 
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/ac15c91f-280e-41c9-801e-870a8f69ca02)
 
@@ -99,7 +99,7 @@
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/0912e68d-57b2-44ba-8351-74fcbcbe66e0)
 
 此处为服务链接：
-[https://bewildcard.com/i/GPT177]{:target="_blank"}
+https://bewildcard.com/i/GPT177
 
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/7d7e971f-a34d-426c-a818-ebfa099ef089)
 
