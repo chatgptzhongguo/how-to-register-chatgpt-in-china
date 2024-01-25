@@ -38,7 +38,7 @@
 
 
 ## 注册OpenAPI <a name="paragraph1"></a>
-进入OpenAI的账户注册页面。 （https://chat.openai.com/）
+进入OpenAI的账户注册页面。 （https://chat.openai.com/ ）
 
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/ac15c91f-280e-41c9-801e-870a8f69ca02)
 
