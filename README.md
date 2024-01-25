@@ -6,6 +6,7 @@
     1. [升级服务](#subparagraph1)
     2. [开设海外银行卡](#subparagraph2)
     3. [升级成功](#subparagraph3)
+    4. [其他问题解答](#subparagraph4)
 
 ## 注册海外邮箱 <a name="邮箱"></a>
 注册海外邮箱。（https://proton.me/ 比较方便，程序简单，点击‘create a free acount’）
@@ -129,4 +130,38 @@ https://bewildcard.com/i/GPT177
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/a1867074-d7cd-47f9-8ea6-dc384da35813)
 
 ### 升级成功 <a name="subparagraph3"></a>
+
+### 其他问题解答 <a name="subparagraph4"></a>
+
+如果出现以下问题，如：
+
+	- Unable to authorize
+	- 未能验证您的支付方式
+	- Card has been declined
+	- 银行卡被拒绝
+
+等错误，如果不是卡片余额不足，则是因为使用的网络环境被太多人用来支付，被识别成了机器人或高风险操作导致了错误报告。
+
+可以点击WildCard页面右下角客服服务，直接找客服协助绑定，快速搞定。
+
+![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/8601f6ea-466a-47e5-9c41-672b605800b3)
+
+总共需要给客服发送两个内容：
+
+1. 在支付页面的网址，需要在支付页面返回上一步，重新点击 Upgrade 进入ChatGPT 的付款页面，复制全部URL，发给客服。
+
+   ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/e5e8fc08-c6a1-4de0-ab93-6494e9648f64)
+
+   在客服对话框里发送完整URL：
+
+   ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/fcd578dc-ee73-437a-8aa0-b1fc457114c0)
+
+3. 卡片信息，点击卡片右上角的复制全部，之后在发送给客服即可​：
+   
+   ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/f3518130-a8ac-45c1-a97b-4d4a2804d46d)
+
+
+
+
+
 
