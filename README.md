@@ -125,11 +125,21 @@ https://bewildcard.com/i/GPT177
 
 ![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/045f4c6d-afea-4aca-b8f5-f551cd871246)
 
-之后点击订阅
+之后点击订阅'Subscribe'
 
-![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/a1867074-d7cd-47f9-8ea6-dc384da35813)
+![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/25546177-8b32-42a5-a199-0cc9cc19f6b0)
+
 
 ### 升级成功 <a name="subparagraph3"></a>
+
+通过简单的验证之后会得到支付成功的确认：
+
+![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/d6329c0c-ff59-4b9b-9552-f173286f8805)
+
+回到ChatGPT页面之后，就可以选择ChatGPT4进行使用了。
+
+![image](https://github.com/chatgptzhongguo/how-to-register-chatgpt-in-china/assets/157622252/d49d13ce-117d-4840-bbef-2b374951491e)
+
 
 ### 其他问题解答 <a name="subparagraph4"></a>
 
